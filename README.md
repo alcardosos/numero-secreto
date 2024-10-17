@@ -1,12 +1,18 @@
-<h1>Jogo Número Secreto</h1> <br>
+# Jogo Número Secreto
 
-<h2>Sobre</h2>
-Projeto fornecido pela plataforma Alura, para os estudos do curso de  "Git e GitHub". Trata-se de uma plataforma web sobre o jodo "Advinha Número", que permite aos jogadores, tentarem advinhar um número de 1 a 100.
-<hr>
-# Tecnologias: 
-<br>
-HTML; CSS; JavaScript
-<hr>
-# Desenvolvido por: 
-<br>
-Plataforma Alura
+## ✏️ Sobre
+Projeto fornecido pela plataforma Alura, para os estudos do curso de "Git e GitHub". Trata-se de uma plataforma web sobre o jogo "Adivinha Número", que permite aos jogadores tentarem adivinhar um número de 1 a 100.
+
+---
+
+## 🚀 Tecnologias
+
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 👥 Desenvolvido por
+
+Alura
