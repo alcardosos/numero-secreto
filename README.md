@@ -15,4 +15,4 @@ Projeto fornecido pela plataforma Alura, para os estudos do curso de "Git e GitH
 
 ## 👥 Desenvolvido por
 
-Alura
+Alan Cardoso de Almeida
